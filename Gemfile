@@ -56,3 +56,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Image uploading
 gem 'carrierwave'
+gem 'mini_magick'
